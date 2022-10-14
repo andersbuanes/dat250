@@ -1,6 +1,6 @@
 # DAT250 Assignment 5
 
-No issues during this excercise.
+No issues during this experiment.
 
 [Excercise 1](/spring-demo/)
 
